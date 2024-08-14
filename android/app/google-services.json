@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "301858564949",
+    "project_id": "it-world-64669",
+    "storage_bucket": "it-world-64669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301858564949:android:97628853df72bd191c5ddc",
+        "android_client_info": {
+          "package_name": "com.example.it_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301858564949-rba5at7ioqd6gvjss0dith9f4qj6ba1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PPNbR3LL9eIqsINRUj_SSXtdC-icmR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301858564949-rba5at7ioqd6gvjss0dith9f4qj6ba1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301858564949-8h488mce9lto1ho54rgbt0fp0us16q4h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.itWorld"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301858564949:android:b478cb10a8815be41c5ddc",
+        "android_client_info": {
+          "package_name": "com.example.it_world1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301858564949-rba5at7ioqd6gvjss0dith9f4qj6ba1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PPNbR3LL9eIqsINRUj_SSXtdC-icmR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301858564949-rba5at7ioqd6gvjss0dith9f4qj6ba1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301858564949-8h488mce9lto1ho54rgbt0fp0us16q4h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.itWorld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
